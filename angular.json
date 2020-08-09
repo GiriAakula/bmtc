@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bmtc"
+    }
+  },
+  "defaultProject": "bmtc",
+  "cli": {
+    "analytics": false
+  }
 }

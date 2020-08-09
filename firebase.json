@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "bmtc-platforms",
+    "public": "dist/bmtc",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+footer {
+position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  justify-content: center;
+}
+
+.heading{
+  color: #1976d2; 
+  font-size: 50px;
+}
+
+@media screen and (max-width: 575px) {
+  .heading{
+    font-size: 30px;
+  } 
+}

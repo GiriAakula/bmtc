@@ -1,0 +1,2991 @@
+[{
+		"SL No.": 1,
+		"Platform": 1,
+		"busRoute": 87,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "HAMPINAGAR R.P.C. LAYOUT",
+		"VIA": "MAGADI ROAD, PRASANNA, PIPELINE ROAD"
+	},{
+		"SL No.": 2,
+		"Platform": 1,
+		"busRoute": "87-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "HAMPINAGAR R.P.C. LAYOUT",
+		"VIA": "MAGADI ROAD, PRASANNA, PIPELINE ROAD, RAILWAY GATE"
+	},{
+		"SL No.": 3,
+		"Platform": 1,
+		"busRoute": "87-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "NAYANDAHALLI RAILWAY GATE",
+		"VIA": "MAGADI ROAD, PRASANNA, PIPELINE ROAD, INCOME TAX, GANGONDANAHALLI"
+	},{
+		"SL No.": 4,
+		"Platform": 2,
+		"busRoute": 61,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "VIJAYANAGAR",
+		"VIA": "MAGADI ROAD, PRASANNA"
+	},{
+		"SL No.": 5,
+		"Platform": 2,
+		"busRoute": "61-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "CHANDRA LAYOUT",
+		"VIA": "SUJATHA, 6TH BLOCK, PRASANNA, VIJAYANAGAR, INCOME TAX"
+	},{
+		"SL No.": 6,
+		"Platform": 2,
+		"busRoute": "61-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SARSWATHINAGAR (BAPOOJI LAYOUT)",
+		"VIA": "MAGADI ROAD, PRASANNA, VIJAYANAGAR"
+	},{
+		"SL No.": 7,
+		"Platform": 2,
+		"busRoute": "61-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BCC LAYOUT",
+		"VIA": "SUJATHA, 6TH BLOCK, PRASANNA, VIJAYANAGAR, ATTIGUPPE"
+	},{
+		"SL No.": 8,
+		"Platform": 2,
+		"busRoute": "61-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "VIJAYANAGAR TTMC",
+		"VIA": "SUJATHA, 6TH BLOCK, PRASANNA, VIJAYANAGAR, MARUTHI MANDIR"
+	},{
+		"SL No.": 9,
+		"Platform": 2,
+		"busRoute": "61-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "GKW LAYOUT",
+		"VIA": "SUJATHA, 6TH BLOCK, PRASANNA, VIJAYANAGAR"
+	},{
+		"SL No.": 10,
+		"Platform": 2,
+		"busRoute": "61-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "CHANDRA LAYOUT",
+		"VIA": "SUJATHA, PRASANNA, VIJAYANAGAR, INCOME TAX"
+	},{
+		"SL No.": 11,
+		"Platform": 2,
+		"busRoute": "61-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "CHANDRA LAYOUT 1ST STAGE",
+		"VIA": "SUJATHA, 6TH BLOCK, PRASANNA, VIJAYANAGAR, INCOME TAX, CHANDRA LAYOUT"
+	},{
+		"SL No.": 12,
+		"Platform": 2,
+		"busRoute": "61-M",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "VIDYAGIRI LAYOUT",
+		"VIA": "SUJATHA, 6TH BLOCK, PRASANNA, VIJAYANAGAR, INCOME TAX, CHANDRA LAYOUT"
+	},{
+		"SL No.": 13,
+		"Platform": 3,
+		"busRoute": "235-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "DODDABASTI",
+		"VIA": "MAGADI ROAD, PRASANNA, VIJAYANAGAR, MUDALAPALYA, NAGARBHAVI CIRCLE, MARIYAPPANAPALYA"
+	},{
+		"SL No.": 14,
+		"Platform": 3,
+		"busRoute": "235-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SULIKERE",
+		"VIA": "MAGADI ROAD, PRASANNA, VIJAYANAGAR, MUDALAPALYA, NAGARBHAVI CIRCLE, RAMASANDRA"
+	},{
+		"SL No.": 15,
+		"Platform": 3,
+		"busRoute": "235-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SPORTS AUTHORITY OF INDIA",
+		"VIA": "SUJATHA 6TH BLOCK, PRASANNA, VIJAYANAGAR, MUDALAPALYA, NAGARBHAVI CIRCLE, GANDHIBAVANA"
+	},{
+		"SL No.": 16,
+		"Platform": 3,
+		"busRoute": "235-K",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "DODDABASTI",
+		"VIA": "MAGADI ROAD, PRASANNA, VIJAYANAGAR, MUDALAPALYA, NAGARBHAVI CIRCLE, SONNENAHALLI"
+	},{
+		"SL No.": 17,
+		"Platform": 3,
+		"busRoute": "235-P",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "CHIKKANAHALLI",
+		"VIA": "MAGADI ROAD, PRASANNA, VIJAYANAGAR, MUDALAPALYA, NAGARBHAVI CIRCLE, SONNENAHALLI, DODDABASTI"
+	},{
+		"SL No.": 18,
+		"Platform": 3,
+		"busRoute": "235-Q",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MARUTHI NAGAR",
+		"VIA": "MAGADI ROAD, PRASANNA, VIJAYANAGAR, MUDALAPALYA, BUC, ADM OFFICE, SONNENAHALLI"
+	},{
+		"SL No.": 19,
+		"Platform": 3,
+		"busRoute": 238,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "NRUPATHUNGANAGAR",
+		"VIA": "MAGADI ROAD, PRASANNA, VIJAYANAGAR, MUDALAPALYA, NAGARBHAVI CIRCLE"
+	},{
+		"SL No.": 20,
+		"Platform": 3,
+		"busRoute": "238-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "NAGARBHAVI 1ST STAGE (3RD BLOCK)",
+		"VIA": "MAGADI ROAD, PRASANNA, VIJAYANAGAR, INCOME TAX, CHANDRA LAYOUT, NAGARBHAVI CIRCLE"
+	},{
+		"SL No.": 21,
+		"Platform": 3,
+		"busRoute": "238-AB",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "ITI LAYOUT",
+		"VIA": "MAGADI ROAD, PRASANNA, VIJAYANAGAR, INCOME TAX, CHANDRA LAYOUT, NAGARBHAVI CIRCLE"
+	},{
+		"SL No.": 22,
+		"Platform": 3,
+		"busRoute": "238-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BANDE MARAMMA TEMPLE",
+		"VIA": "MAGADI ROAD, PRASANNA, VIJAYANAGAR, MUDALAPALYA, KALYAN NAGAR"
+	},{
+		"SL No.": 23,
+		"Platform": 3,
+		"busRoute": "238-L",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "AMBEDKAR COLLEGE",
+		"VIA": "SUJATHA 6TH BLOCK, PRASANNA, VIJAYANAGAR, MUDALAPALYA, NAGARBHAVI CIRCLE, NRUPATHUNGANAGAR"
+	},{
+		"SL No.": 24,
+		"Platform": 3,
+		"busRoute": "238-U",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BANGALORE UNIVERSITY QUARTERS",
+		"VIA": "MAGADI ROAD, PRASANNA, VIJAYANAGAR, MUDALAPALYA, NAGARBHAVI CIRCLE, MALLATHAHALLI"
+	},{
+		"SL No.": 25,
+		"Platform": 3,
+		"busRoute": "238-V",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "AMBEDKAR COLLEGE",
+		"VIA": "PRASANNA, VIJAYANAGAR, MUDALAPALYA, NAGARBHAVI CIRCLE"
+	},{
+		"SL No.": 26,
+		"Platform": 3,
+		"busRoute": "238-W",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "NARASAPURA",
+		"VIA": "MAGADI ROAD, PRASANNA, VIJAYANAGAR, MUDALAPALYA, NAGARBHAVI CIRCLE, MALLATHAHALLI"
+	},{
+		"SL No.": 27,
+		"Platform": 3,
+		"busRoute": "238-ZA",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "ULLALU UPANAGARA",
+		"VIA": "MAGADI ROAD, PRASANNA, VIJAYANAGAR, MUDALAPALYA, NAGARBHAVI CIRCLE, MALLATHAHALLI CROSS, VIDYANIKETAN"
+	},{
+		"SL No.": 28,
+		"Platform": 3,
+		"busRoute": "223-P",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "UPKAR RESIDENCY LAYOUT",
+		"VIA": "MAGADI ROAD, PRASANNA, VIJAYANAGAR, INCOME TAX, CHANDRA LAYOUT, MALLATHAHALLI CROSS, BALAJI LAYOUT"
+	},{
+		"SL No.": 29,
+		"Platform": 3,
+		"busRoute": "223-PA",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "UPKAR RESIDENCY LAYOUT",
+		"VIA": "MAGADI ROAD, PRASANNA, VIJAYANAGAR, INCOME TAX, CHANDRA LAYOUT, MALLATHAHALLI CROSS, BALAJI LAYOUT"
+	},{
+		"SL No.": 30,
+		"Platform": 4,
+		"busRoute": "240-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "GOLLARAHATTI",
+		"VIA": "MAGADI ROAD, PRASANNA, A DASARAHALLI, KAMAKSHIPALYA, SUNKADAKATTE"
+	},{
+		"SL No.": 31,
+		"Platform": 4,
+		"busRoute": "240-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "G HOSAHALLI",
+		"VIA": "MAGADI ROAD, PRASANNA, A DASARAHALLI, KAMAKSHIPALYA, SUNKADAKATTE, BYADARAHALLI"
+	},{
+		"SL No.": 32,
+		"Platform": 4,
+		"busRoute": "240-R",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MACHOHALLI",
+		"VIA": "MAGADI ROAD, PRASANNA, A DASARAHALLI, KAMAKSHIPALYA, SUNKADAKATTE, BYADARAHALLI"
+	},{
+		"SL No.": 33,
+		"Platform": 4,
+		"busRoute": "241-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KENCHANAPURA",
+		"VIA": "MAGADI ROAD, PRASANNA, A DASARAHALLI, KAMAKSHIPALYA, SUNKADAKATTE, KODIGENAHALLI CROSS, KANNALI"
+	},{
+		"SL No.": 34,
+		"Platform": 4,
+		"busRoute": "241-CB",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "YELE KODIGENAHALLI",
+		"VIA": "MAGADI ROAD, PRASANNA, A DASARAHALLI, KAMAKSHIPALYA, SUNKADAKATTE, GOLLARAHATTI"
+	},{
+		"SL No.": 35,
+		"Platform": 4,
+		"busRoute": "241-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BHARAT NAGAR 2ND STAGE",
+		"VIA": "MAGADI ROAD, PRASANNA, A DASARAHALLI, KAMAKSHIPALYA, SUNKADAKATTE, BHARAT NAGAR 3RD STAGE"
+	},{
+		"SL No.": 36,
+		"Platform": 4,
+		"busRoute": "241-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MAHADESHWARA NAGAR",
+		"VIA": "MAGADI ROAD, PRASANNA, A DASARAHALLI, KAMAKSHIPALYA, SUNKADAKATTE"
+	},{
+		"SL No.": 37,
+		"Platform": "4-A",
+		"busRoute": "242-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "TAVAREKERE",
+		"VIA": "MAGADI ROAD, PRASANNA, A DASARAHALLI, KAMAKSHIPALYA, SUNKADAKATTE, KADABAGRE CROSS, CHANNENAHALLI"
+	},{
+		"SL No.": 38,
+		"Platform": "4-A",
+		"busRoute": "242-CB",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "THUNGANAGAR",
+		"VIA": "MAGADI ROAD, PRASANNA, A DASARAHALLI, KAMAKSHIPALYA, SUNKADAKATTE, BYADARAHALLI"
+	},{
+		"SL No.": 39,
+		"Platform": "4-A",
+		"busRoute": "242-T",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "HUNNIGERE",
+		"VIA": "SUJATHA 6TH BLOCK, PRASANNA, KAMAKSHIPALYA, SUNKADAKATTE, TAVAREKERE, MALLASANDRA, GERALLI"
+	},{
+		"SL No.": 40,
+		"Platform": "4-A",
+		"busRoute": "242-X",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "DODDERI VILLAGE",
+		"VIA": "MAGADI ROAD, PRASANNA, A DASARAHALLI, SUNKADAKATTE, TAVAREKERE, HULUVENAHALLI CROSS, CHANDRAPPA CIRCLE, BYALALU"
+	},{
+		"SL No.": 41,
+		"Platform": "4-A",
+		"busRoute": "242-Z",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "TIPPAGONDANAHALLI",
+		"VIA": "MAGADI ROAD, PRASANNA, A DASARAHALLI, SUNKADAKATTE, TAVAREKERE, GOLLARAHATTI, MARENAHALLI, CHOLANAYAKANAHALLI TB"
+	},{
+		"SL No.": 42,
+		"Platform": "4-A",
+		"busRoute": "242-ZD",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KALLURU",
+		"VIA": "MAGADI ROAD, PRASANNA, TAVAREKERE, TIPPAGONDANAHALLI, SHANUBHOGANAHALLI"
+	},{
+		"SL No.": 43,
+		"Platform": "4-A",
+		"busRoute": "243-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "TIGALARAPALYA",
+		"VIA": "MAGADI ROAD, PRASANNA, SUNKADAKATTE, TUNGANAGAR, ANDRAHALLI"
+	},{
+		"SL No.": 44,
+		"Platform": "4-A",
+		"busRoute": "243-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "GIDADAKONENAHALLI",
+		"VIA": "MAGADI ROAD, PRASANNA, SUNKADAKATTE, EAST WEST COLLEGE"
+	},{
+		"SL No.": 45,
+		"Platform": "4-B",
+		"busRoute": 265,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KBS-KBS",
+		"VIA": "MAGADI ROAD, PRASANNA, KAMAKSHIPALYA, SUNKADAKATTE, HEGGANAHALLI, PEENYA 2ND STAGE, JALAHALLI CROSS, YESHWANTHPUR"
+	},{
+		"SL No.": 46,
+		"Platform": "4-B",
+		"busRoute": "265-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "TIGALARAPALYA",
+		"VIA": "MAGADI ROAD, PRASANNA, KAMAKSHIPALYA, SUNKADAKATTE, HEGGANAHALLI, PEENYA 2ND STAGE, ANDRAHALLI"
+	},{
+		"SL No.": 47,
+		"Platform": "4-B",
+		"busRoute": "265-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MATTIHALLI",
+		"VIA": "MAGADI ROAD, PRASANNA, KAMAKSHIPALYA, SUNKADAKATTE, HEGGANAHALLI, NTTF, JALAHALLI CROSS, MARANAYAKANAHALLI"
+	},{
+		"SL No.": 48,
+		"Platform": "4-B",
+		"busRoute": "G-7",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JANAPRIYA TOWNSHIP",
+		"VIA": "SUJATHA, PRASANNA, SUNKADAKATTE, GOLLARAHATTI, KADABAGERE CROSS"
+	},{
+		"SL No.": 49,
+		"Platform": 5,
+		"busRoute": 88,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BASAVESHWARANAGAR",
+		"VIA": "SUJATHA TALKIES, DHOBIGHAT"
+	},{
+		"SL No.": 50,
+		"Platform": 5,
+		"busRoute": "88-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BASAVESHWARANAGAR, SANE GURUVANAHALLI",
+		"VIA": "BHASHYAM CIRCLE, DHOBIGHAT"
+	},{
+		"SL No.": 51,
+		"Platform": 5,
+		"busRoute": 96,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BASAVESHWARANAGAR",
+		"VIA": "MALLESHWARAM CIRCLE, SHANKAR MUTT"
+	},{
+		"SL No.": 52,
+		"Platform": 5,
+		"busRoute": "96-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BASAVESHWARANAGAR",
+		"VIA": "SUJATHA TALKIES, INDUSTRIAL TOWN"
+	},{
+		"SL No.": 53,
+		"Platform": 5,
+		"busRoute": "96-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KAMALANAGARA",
+		"VIA": "INDUSTRIAL TOWN, BASAVESHWARANAGAR"
+	},{
+		"SL No.": 54,
+		"Platform": 5,
+		"busRoute": "96-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KAMALANAGARA",
+		"VIA": "MARIYAPPANA PALYA, SHANKAR MUTT"
+	},{
+		"SL No.": 55,
+		"Platform": 5,
+		"busRoute": "96-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BEML LAYOUT",
+		"VIA": "MALLESHWARAM CIRCLE, MODI HOSPITAL"
+	},{
+		"SL No.": 56,
+		"Platform": 5,
+		"busRoute": "96-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BHEEMAJYOTHINAGAR",
+		"VIA": "MALLESHWARAM CIRCLE, MARIYAPPANA PALYA"
+	},{
+		"SL No.": 57,
+		"Platform": 5,
+		"busRoute": "96-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SHANKARNAG BUS STAND",
+		"VIA": "NAGAPPA BLOCK, NAVARANG TALKIES"
+	},{
+		"SL No.": 58,
+		"Platform": 6,
+		"busRoute": "78-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "ISKON TEMPLE",
+		"VIA": "SUJATHA, RAJAJINAGAR 1ST BLOCK"
+	},{
+		"SL No.": 59,
+		"Platform": 6,
+		"busRoute": "78-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "YESHWANTHPUR RAILWAY STATION",
+		"VIA": "SUJATHA, ISKON TEMPLE"
+	},{
+		"SL No.": 60,
+		"Platform": 6,
+		"busRoute": 80,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MAHALAKSHMI LAYOUT",
+		"VIA": "SUJATHA, RAJAJINAGAR 1ST BLOCK"
+	},{
+		"SL No.": 61,
+		"Platform": 6,
+		"busRoute": "80-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "NANDINI LAYOUT",
+		"VIA": "SUJATHA, MAHALAKSHMI LAYOUT"
+	},{
+		"SL No.": 62,
+		"Platform": 6,
+		"busRoute": "80-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JAI MARUTHINAGARA CIRCLE",
+		"VIA": "SUJATHA, RAJAJINAGAR 1ST BLOCK"
+	},{
+		"SL No.": 63,
+		"Platform": 6,
+		"busRoute": "80-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "GORAGUNTE PALYA",
+		"VIA": "ESI, MAHALAKSMI LAYOUT"
+	},{
+		"SL No.": 64,
+		"Platform": 6,
+		"busRoute": "80-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JAI MARUTHINAGAR",
+		"VIA": "SUJATHA, RAJAJINAGAR 1ST BLOCK"
+	},{
+		"SL No.": 65,
+		"Platform": 6,
+		"busRoute": "80-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KRISHNANANDA NAGAR",
+		"VIA": "SUJATHA, MAHALAKSHMI LAYOUT"
+	},{
+		"SL No.": 66,
+		"Platform": 6,
+		"busRoute": "80-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JAI BHUVANESHWARI NAGAR",
+		"VIA": "SUJATHA, KANTEERAVA STUDIO"
+	},{
+		"SL No.": 67,
+		"Platform": "6-A",
+		"busRoute": "80-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SWATHANTHRA YODHARA NAGAR",
+		"VIA": "RAJAJINAGAR 1ST BLOCK, KANTEERAVA STUDIO"
+	},{
+		"SL No.": 68,
+		"Platform": "6-A",
+		"busRoute": "80-R",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "DR. RAJKUMAR PUNYA BHOOMI",
+		"VIA": "SUJATHA, MAHALAKSHMI LAYOUT, SHANKARA NAGAR"
+	},{
+		"SL No.": 69,
+		"Platform": "6-A",
+		"busRoute": "80-K",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SAKAMMA LAYOUT",
+		"VIA": "SUJATHA, ESI, MAHALAKSHMI LAYOUT, JAI MARUTHI NAGAR"
+	},{
+		"SL No.": 70,
+		"Platform": "6-A",
+		"busRoute": "80-L",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "ASRAYA NAGAR",
+		"VIA": "ESI, MAHALAKSMI LAYOUT, KANTEERAVA NAGAR"
+	},{
+		"SL No.": 71,
+		"Platform": "6-A",
+		"busRoute": 89,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KURUBARAHALLI",
+		"VIA": "SUJATHA, RAJAJINAGAR 1ST BLOCK"
+	},{
+		"SL No.": 72,
+		"Platform": "6-A",
+		"busRoute": "89-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KAVERI NAGAR",
+		"VIA": "SUJATHA, SHANKAR MUTT"
+	},{
+		"SL No.": 73,
+		"Platform": "6-A",
+		"busRoute": "89-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "GELEYARA BALAGA",
+		"VIA": "SUJATHA, RAJAJINAGAR 1ST BLOCK"
+	},{
+		"SL No.": 74,
+		"Platform": "6-A",
+		"busRoute": "89-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KURUBARAHALLI",
+		"VIA": "ESI, RAJAJINAGAR 1ST BLOCK"
+	},{
+		"SL No.": 75,
+		"Platform": "6-A",
+		"busRoute": "89-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KURUBARAHALLI, JC NAGAR",
+		"VIA": "CENTRAL, HARISHCHANDRAGHAT, MODI HOSPITAL"
+	},{
+		"SL No.": 76,
+		"Platform": 7,
+		"busRoute": "89-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KAVERI NAGAR",
+		"VIA": "SUJATHA, BHEEMAJYOTHINAGAR"
+	},{
+		"SL No.": 77,
+		"Platform": 7,
+		"busRoute": "89-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "GELEYARA BALAGA",
+		"VIA": "SUJATHA, RAJAJINAGAR 1ST BLOCK"
+	},{
+		"SL No.": 78,
+		"Platform": 7,
+		"busRoute": "252-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "PEENYA 2ND STAGE",
+		"VIA": "SUJATHA, MAHALAKSHMI LAYOUT"
+	},{
+		"SL No.": 79,
+		"Platform": 7,
+		"busRoute": "252-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "RAJEEVGHANDHI NAGAR",
+		"VIA": "SUJATHA, MAHALAKSHMI LAYOUT"
+	},{
+		"SL No.": 80,
+		"Platform": 7,
+		"busRoute": 264,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JALAHALLI CROSS",
+		"VIA": "ESI, KRISHNANDANAGAR"
+	},{
+		"SL No.": 81,
+		"Platform": 7,
+		"busRoute": "267-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "CHOWDESHWARI NAGAR",
+		"VIA": "MAHALAKSHMI LAYOUT, SHANKARNAGAR"
+	},{
+		"SL No.": 82,
+		"Platform": "8-A",
+		"busRoute": "45-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "CHANNAMANNAKERE ACHUKATTU",
+		"VIA": "KR MARKET, KATHRIGUPPE"
+	},{
+		"SL No.": 83,
+		"Platform": "8-A",
+		"busRoute": "45-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "CHANNAMANNAKERE ACHUKATTU",
+		"VIA": "CHAMARAJAPETE, KATHRIGUPPE"
+	},{
+		"SL No.": 84,
+		"Platform": "8-A",
+		"busRoute": "45-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "AGS LAYOUT",
+		"VIA": "HOSAKEREHALLI CROSS, ITTAMADAVU"
+	},{
+		"SL No.": 85,
+		"Platform": "8-B",
+		"busRoute": "45-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "RAGHAVENDRA COLONY",
+		"VIA": "CORPORATION, CHAMARAJAPETE"
+	},{
+		"SL No.": 86,
+		"Platform": "8-B",
+		"busRoute": "45-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BHUVANESHWARI NAGAR, MAHALAKSHMI TEMPLE",
+		"VIA": "COTTONPETE, CHAMARAJAPETE, BSK 3RD STAGE"
+	},{
+		"SL No.": 87,
+		"Platform": "8-B",
+		"busRoute": "45-K",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "DATTATREYA NAGAR",
+		"VIA": "KR MARKET, GANESHABHAVANA, ITTAMADUGU"
+	},{
+		"SL No.": 88,
+		"Platform": "8-B",
+		"busRoute": "45-M",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "CHANNAMMANAKERE ACHUKATTU",
+		"VIA": "KR MARKET, VIVEKANANDA NAGAR"
+	},{
+		"SL No.": 89,
+		"Platform": "8-B",
+		"busRoute": 49,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "RAGHAVENDRA COLONY",
+		"VIA": "CORPORATION, CHAMARAJAPETE"
+	},{
+		"SL No.": 90,
+		"Platform": "8-B",
+		"busRoute": "49-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "VITTAL NAGAR",
+		"VIA": "KR MARKET, CHAMARAJAPETE"
+	},{
+		"SL No.": 91,
+		"Platform": "8-B",
+		"busRoute": "210-P",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "CHIKKALLASANDRA",
+		"VIA": "THYAGARAJA NAGAR, PADMANABHA NAGAR"
+	},{
+		"SL No.": 92,
+		"Platform": "8-B",
+		"busRoute": "210-W",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KARISHMA HILLS",
+		"VIA": "CORPORATION, PADMANABHA NAGAR"
+	},{
+		"SL No.": 93,
+		"Platform": "8-B",
+		"busRoute": "210-X",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "CHANDRA NAGAR",
+		"VIA": "KR MARKET, MANOTYPE"
+	},{
+		"SL No.": 94,
+		"Platform": "8-B",
+		"busRoute": "210-Z",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "NAYDU LAYOUT (CHIKKALLASANDRA)",
+		"VIA": "KR MARKET, BANASHANKARI"
+	},{
+		"SL No.": 95,
+		"Platform": 9,
+		"busRoute": "210-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "ISRO LAYOUT",
+		"VIA": "KR MARKET, KUMARASWAMY LAYOUT"
+	},{
+		"SL No.": 96,
+		"Platform": 9,
+		"busRoute": "210-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "VASANTHAPURA",
+		"VIA": "TOWN HALL, UTTARAHALLI"
+	},{
+		"SL No.": 97,
+		"Platform": 9,
+		"busRoute": "210-I",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "CHIKKALLASANDRA",
+		"VIA": "CORPORATION, BANASHANKRI, BDA COMPLEX"
+	},{
+		"SL No.": 98,
+		"Platform": 9,
+		"busRoute": "210-J",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "RAMANJENEYA LAYOUT",
+		"VIA": "CORPORATION, PADMANABHA NAGAR"
+	},{
+		"SL No.": 99,
+		"Platform": 9,
+		"busRoute": "210-K",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "UTTARAHALLI",
+		"VIA": "CORPORATION, BANASHANKRI, BDA COMPLEX"
+	},{
+		"SL No.": 100,
+		"Platform": 9,
+		"busRoute": "210-KA",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BHARATH CO-OPERATIVE SOCIETY",
+		"VIA": "KR MARKET, PADMANABHA NAGAR"
+	},{
+		"SL No.": 101,
+		"Platform": 9,
+		"busRoute": "210-NA",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "POORNAPRAGNA LAYOUT",
+		"VIA": "PADMANABHA NAGARA, UTTARAHALLI"
+	},{
+		"SL No.": 102,
+		"Platform": 10,
+		"busRoute": 36,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SREENAGARA",
+		"VIA": "CORPORATION, LALBAGH MAIN GATE"
+	},{
+		"SL No.": 103,
+		"Platform": 10,
+		"busRoute": "36-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "AVALAHALLI BDA PARK",
+		"VIA": "KR MARKET, APEX BANK"
+	},{
+		"SL No.": 104,
+		"Platform": 10,
+		"busRoute": "36-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "GIRINAGARA EXTENSION",
+		"VIA": "CHAMARAJPETE, APEX BANK"
+	},{
+		"SL No.": 105,
+		"Platform": 10,
+		"busRoute": "36-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MUNESHWARA BLOCK",
+		"VIA": "KR MARKET, APEX BANK"
+	},{
+		"SL No.": 106,
+		"Platform": 10,
+		"busRoute": "36-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "GIRINAGARA",
+		"VIA": "CORPORATION, APEX BANK"
+	},{
+		"SL No.": 107,
+		"Platform": 10,
+		"busRoute": "36-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KALIDASA LAYOUT",
+		"VIA": "KR MARKET, SREENAGARA"
+	},{
+		"SL No.": 108,
+		"Platform": 10,
+		"busRoute": "36-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "GIRINAGARA",
+		"VIA": "CHAMARAJPETE, APEX BANK"
+	},{
+		"SL No.": 109,
+		"Platform": 10,
+		"busRoute": "36-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "AVALAHALLI NEW BDA LAYOUT",
+		"VIA": "KR MARKET, NAGENDRA BLOCK"
+	},{
+		"SL No.": 110,
+		"Platform": 10,
+		"busRoute": 10,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "AVALAHALLI BDA PARK",
+		"VIA": "CHAMARAJAPETE, ASHRAMA"
+	},{
+		"SL No.": 111,
+		"Platform": 11,
+		"busRoute": 2,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JP NAGARA 6TH PHASE",
+		"VIA": "LALBAGH MAIN GATE, JAYNAGAR 4TH BLOCK"
+	},{
+		"SL No.": 112,
+		"Platform": 11,
+		"busRoute": "2-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JP NAGARA 1ST PHASE",
+		"VIA": "CORPORATION, JAYNAGAR 4TH BLOCK"
+	},{
+		"SL No.": 113,
+		"Platform": 11,
+		"busRoute": "2-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JP NAGAR 6TH PHASE",
+		"VIA": "LALBAGH MAIN GATE, JAYNAGAR 4TH BLOCK"
+	},{
+		"SL No.": 114,
+		"Platform": 11,
+		"busRoute": "2-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JP NAGARA 3RD PHASE",
+		"VIA": "CORPORATION, JAYNAGAR 4TH BLOCK"
+	},{
+		"SL No.": 115,
+		"Platform": "11-A",
+		"busRoute": "210-R",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "VASANTHAPURA",
+		"VIA": "MONOTYPE, ISRO LAYOUT"
+	},{
+		"SL No.": 116,
+		"Platform": "11-A",
+		"busRoute": "210-U",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KUMARSWAMY LAYOUT",
+		"VIA": "KR MARKET, MONOTYPE"
+	},{
+		"SL No.": 117,
+		"Platform": "11-A",
+		"busRoute": "211-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SOMANAHALLI",
+		"VIA": "BANASHANKARI, KAGGALIPURA"
+	},{
+		"SL No.": 118,
+		"Platform": "11-A",
+		"busRoute": "211-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KAGGALIPURA",
+		"VIA": "BANASHANKARI, KONANKUNTE CROSS"
+	},{
+		"SL No.": 119,
+		"Platform": "11-A",
+		"busRoute": "211-L",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BCC LAYOUT (RAGUVANAHALLI)",
+		"VIA": "KR MARKET, CORPORATION"
+	},{
+		"SL No.": 120,
+		"Platform": "11-A",
+		"busRoute": "212-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MUNESHWARANAGAR",
+		"VIA": "CORPORATION, BANASHANKRI"
+	},{
+		"SL No.": 121,
+		"Platform": "11-A",
+		"busRoute": "212-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "AGARA",
+		"VIA": "CORPORATION, TALAGHATTAPURA"
+	},{
+		"SL No.": 122,
+		"Platform": "11-A",
+		"busRoute": "213-Z",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "HAROHALLI",
+		"VIA": "KR MARKET, UDAYANAPALYA"
+	},{
+		"SL No.": 123,
+		"Platform": "11-B",
+		"busRoute": "215-R",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "ESHAWARA LAYOUT",
+		"VIA": "VIJAYA COLLEGE, PUTTENAHALLI"
+	},{
+		"SL No.": 124,
+		"Platform": "11-B",
+		"busRoute": "215-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SHRINIDHI LAYOUT (KOTTANUR)",
+		"VIA": "KR MARKET, KONANAKUNTE CROSS"
+	},{
+		"SL No.": 125,
+		"Platform": "11-B",
+		"busRoute": "215-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JAMBUSAVARI DINNE",
+		"VIA": "VIJAYA COLLEGE, KOTTANURU DINNE"
+	},{
+		"SL No.": 126,
+		"Platform": "11-B",
+		"busRoute": "215-I",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "PUNJAB NATIONAL BANK LAYOUT",
+		"VIA": "CORPORATION, JARAGANAHALLI"
+	},{
+		"SL No.": 127,
+		"Platform": "11-B",
+		"busRoute": "215-J",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KOTTANURU",
+		"VIA": "VIJAYA COLLEGE, CHANCHAGHATTA"
+	},{
+		"SL No.": 128,
+		"Platform": "11-B",
+		"busRoute": "215-M",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "VINAYAKANAGAR",
+		"VIA": "CORPORATION, JAYNAGAR 5TH BLOCK"
+	},{
+		"SL No.": 129,
+		"Platform": "11-B",
+		"busRoute": "215-N",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "ANJANAPURA",
+		"VIA": "KR MARKET, SOUTH END CIRCLE"
+	},{
+		"SL No.": 130,
+		"Platform": "11-B",
+		"busRoute": "215-NA",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "AMRUTHANAGAR",
+		"VIA": "MAHILA SEVA SAMAJA ANJANAPURA"
+	},{
+		"SL No.": 131,
+		"Platform": 12,
+		"busRoute": 12,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BANASHANKARI",
+		"VIA": "LALBAGH MAIN GATE, VIJAYA COLLEGE"
+	},{
+		"SL No.": 132,
+		"Platform": 12,
+		"busRoute": "12-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BANASHANKARI 2ND STAGE",
+		"VIA": "CORPORATION, VIJAYA COLLEGE"
+	},{
+		"SL No.": 133,
+		"Platform": 12,
+		"busRoute": "12-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "PADMANABHA NAGAR",
+		"VIA": "LALBAGH MAIN GATE, BANASHANKARI 2ND STAGE"
+	},{
+		"SL No.": 134,
+		"Platform": 12,
+		"busRoute": "12-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "PADMANABHA NAGAR",
+		"VIA": "CORPORATION, VIJAYA COLLEGE, TATA SILK FARM"
+	},{
+		"SL No.": 135,
+		"Platform": 12,
+		"busRoute": "12-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KADIRENAHALLI PARK",
+		"VIA": "CORPORATION, VIJAYA COLLEGE"
+	},{
+		"SL No.": 136,
+		"Platform": 12,
+		"busRoute": "12-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BANASHANKARI",
+		"VIA": "CORPORATION, SOUTHEND CIRCLE"
+	},{
+		"SL No.": 137,
+		"Platform": 12,
+		"busRoute": "12-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "CHIKKALLASANDRA",
+		"VIA": "LALBAGH MAIN GATE, MANOTYPE"
+	},{
+		"SL No.": 138,
+		"Platform": 12,
+		"busRoute": "15-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KUMARSWAMY LAYOUT",
+		"VIA": "CORPORATION, VIJAYA COLLEGE, TATA SILK FARM"
+	},{
+		"SL No.": 139,
+		"Platform": 12,
+		"busRoute": "15-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KUMARSWAMY LAYOUT",
+		"VIA": "KR MARKET, MANOTYPE"
+	},{
+		"SL No.": 140,
+		"Platform": "12-A",
+		"busRoute": "15-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KUMARSWAMY LAYOUT 2ND STAGE",
+		"VIA": "TOWN HALL, MANOTYPE"
+	},{
+		"SL No.": 141,
+		"Platform": "12-A",
+		"busRoute": "15-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JHB COLONY",
+		"VIA": "CORPORATION, KADIRENAHALLI CROSS"
+	},{
+		"SL No.": 142,
+		"Platform": "12-A",
+		"busRoute": "15-J",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BANASHANKARI 2ND STAGE",
+		"VIA": "KR MARKET, MANOTYPE"
+	},{
+		"SL No.": 143,
+		"Platform": "12-A",
+		"busRoute": "15-L",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MINAJ NAGAR",
+		"VIA": "KR MARKET, KADIRENAHALLI CROSS"
+	},{
+		"SL No.": 144,
+		"Platform": "13-A",
+		"busRoute": "25-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BTM LAYOUT",
+		"VIA": "CORPORATION, VIJAYA COLLEGE"
+	},{
+		"SL No.": 145,
+		"Platform": "13-A",
+		"busRoute": "25-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BTM LAYOUT",
+		"VIA": "CORPORATION, VIJAYA COLLEGE"
+	},{
+		"SL No.": 146,
+		"Platform": "13-A",
+		"busRoute": "25-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KUVEMPUNAGAR",
+		"VIA": "CORPORATION, LALBAGH"
+	},{
+		"SL No.": 147,
+		"Platform": "13-A",
+		"busRoute": "25-K",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JP NAGAR 4TH STAGE, DOLLAR'S COLONY",
+		"VIA": "MAHARANI COLLEGE, JAYNAGAR 4TH BLOCK"
+	},{
+		"SL No.": 148,
+		"Platform": "13-A",
+		"busRoute": "25-N",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BTM 7TH MAIN ROAD",
+		"VIA": "CORPORATION, ASHOKA PILLAR, JAYNAGAR 4TH BLOCK EAST"
+	},{
+		"SL No.": 149,
+		"Platform": "13-A",
+		"busRoute": "25-J",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KUVEMPUNAGAR",
+		"VIA": "CORPORATION, ASHOKA PILLAR"
+	},{
+		"SL No.": 150,
+		"Platform": "13-A",
+		"busRoute": "364-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MICO SHRAMAJEEVI COLONY",
+		"VIA": "CORPORATION, SOUTHEND CIRCLE, BILEKALLI"
+	},{
+		"SL No.": 151,
+		"Platform": "13-A",
+		"busRoute": "364-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "DEVARACHIKKANAHALLI",
+		"VIA": "CORPORATION, SOUTHEND CIRCLE, VIJAYA BANK COLONY"
+	},{
+		"SL No.": 152,
+		"Platform": "13-A",
+		"busRoute": "364-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "VIJAYA BANK COLONY",
+		"VIA": "CORPORATION, SOUTHEND CIRCLE"
+	},{
+		"SL No.": 153,
+		"Platform": "13-B",
+		"busRoute": "364-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "NARAYANAPPANA HALLI",
+		"VIA": "SHANTINAGAR, JAYADEVA HOSPITAL"
+	},{
+		"SL No.": 154,
+		"Platform": "13-B",
+		"busRoute": "364-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KODICHIKKANA HALLI",
+		"VIA": "CORPORATION, JAYADEVA HOSPITAL"
+	},{
+		"SL No.": 155,
+		"Platform": "14-A",
+		"busRoute": "165-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KORAMANGALA 8TH BLOCK",
+		"VIA": "CORPORATION, WILSON GARDEN"
+	},{
+		"SL No.": 156,
+		"Platform": "14-A",
+		"busRoute": "168-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "TAVAREKERE",
+		"VIA": "CORPORATION, NIMHANS"
+	},{
+		"SL No.": 157,
+		"Platform": "14-A",
+		"busRoute": "168-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JAI BHEEMANAGARA",
+		"VIA": "CORPORATION, NIMHANS"
+	},{
+		"SL No.": 158,
+		"Platform": "14-A",
+		"busRoute": "168-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "OLD GURAPPANAPALYA",
+		"VIA": "SHANTHINAGAR, NIMHANS"
+	},{
+		"SL No.": 159,
+		"Platform": "14-A",
+		"busRoute": 171,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KORAMANGALA",
+		"VIA": "CORPORATION, BANGALORE DAIRY"
+	},{
+		"SL No.": 160,
+		"Platform": "14-A",
+		"busRoute": "171-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KORAMANGALA 8TH BLOCK",
+		"VIA": "SHANTHINAGAR, WILSON GARDEN"
+	},{
+		"SL No.": 161,
+		"Platform": "14-A",
+		"busRoute": "171-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KORAMANGALA KENDRIYA SADANA",
+		"VIA": "NIMHANS, BANGLORE DAIRY"
+	},{
+		"SL No.": 162,
+		"Platform": "14-A",
+		"busRoute": "171-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "VENKATAPURA",
+		"VIA": "CORPORATION, BANGALORE DAIRY"
+	},{
+		"SL No.": 163,
+		"Platform": "14-B",
+		"busRoute": "171-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KORAMANGALA HOUSING COMPANY",
+		"VIA": "SHANTI NAGAR, BANGLORE DAIRY"
+	},{
+		"SL No.": 164,
+		"Platform": "14-B",
+		"busRoute": "171-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KORAMANGALA",
+		"VIA": "CORPORATION, HOSUR ROAD, KALYANA MANTAPA"
+	},{
+		"SL No.": 165,
+		"Platform": "14-B",
+		"busRoute": "171-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KORAMANGALA HOUSING COMPANY",
+		"VIA": "CORPORATION, DAIRY, AUDUGODI"
+	},{
+		"SL No.": 166,
+		"Platform": "14-B",
+		"busRoute": "171-J",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KORAMANGALA",
+		"VIA": "BANGLORE DAIRY, KRM, KALYANA MANTAPA"
+	},{
+		"SL No.": 167,
+		"Platform": "14-B",
+		"busRoute": "171-PP",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KORAMNAGALA",
+		"VIA": "CORPORATION, DAIRY, AUDUGODI"
+	},{
+		"SL No.": 168,
+		"Platform": "15-D",
+		"busRoute": "353-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JIGANI",
+		"VIA": "MADIVALA, RAJAPURA"
+	},{
+		"SL No.": 169,
+		"Platform": "15-D",
+		"busRoute": "354-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MARASUR",
+		"VIA": "MADIVALA, KOODLU GATE, IGLURU"
+	},{
+		"SL No.": 170,
+		"Platform": "15-D",
+		"busRoute": "355-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SREERAMPURA",
+		"VIA": "HEBBAGODI, MARADEVANHALLI"
+	},{
+		"SL No.": 171,
+		"Platform": "15-D",
+		"busRoute": "355-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JIGANI",
+		"VIA": "KOODLU GATE, TEMPLE CROSS"
+	},{
+		"SL No.": 172,
+		"Platform": "15-D",
+		"busRoute": "355-Q",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "DYAVASANDRA",
+		"VIA": "MADIVALA, KONAPPANA AGRAHARA"
+	},{
+		"SL No.": 173,
+		"Platform": "15-D",
+		"busRoute": 356,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "CHANDAPURA",
+		"VIA": "SINGASANDRA, BTL COLLEGE"
+	},{
+		"SL No.": 174,
+		"Platform": "15-D",
+		"busRoute": "356-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "TATTANAHALLI",
+		"VIA": "KOODLU GATE, BYRADEVAHALLI"
+	},{
+		"SL No.": 175,
+		"Platform": "15-D",
+		"busRoute": "356-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "ELECTRONIC CITY",
+		"VIA": "SINGASANDRA, KONAPPANA AGRAHARA"
+	},{
+		"SL No.": 176,
+		"Platform": "15-D",
+		"busRoute": "356-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SAMPUGENAGAR",
+		"VIA": "MADIVALA, HUSKURU GATE"
+	},{
+		"SL No.": 177,
+		"Platform": "17-D",
+		"busRoute": "335-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SATHYA SAI HOSPITAL",
+		"VIA": "MILITARY HOSPITAL, MARATHAHALLI"
+	},{
+		"SL No.": 178,
+		"Platform": "17-D",
+		"busRoute": "335-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "LAL BAHADUR SHASTRI NAGAR",
+		"VIA": "MAYOHALL, HAL MAIN GATE"
+	},{
+		"SL No.": 179,
+		"Platform": "17-D",
+		"busRoute": "336-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KEMPAPURA",
+		"VIA": "DOMLURU, YAMALURU"
+	},{
+		"SL No.": 180,
+		"Platform": "17-D",
+		"busRoute": 381,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "THIMMASANDRA",
+		"VIA": "HALASURU, HALAPPANAHALLI"
+	},{
+		"SL No.": 181,
+		"Platform": 18,
+		"busRoute": 131,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "DOOPANAHALLI",
+		"VIA": "CORPORATION, ULSOOR"
+	},{
+		"SL No.": 182,
+		"Platform": 18,
+		"busRoute": "131-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "OLD BYAPPANAHALLI",
+		"VIA": "MAYOHALL, ULSOOR"
+	},{
+		"SL No.": 183,
+		"Platform": 18,
+		"busRoute": "131-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "DOMLURU",
+		"VIA": "ULSOOR, DOOPANAHALLI"
+	},{
+		"SL No.": 184,
+		"Platform": 18,
+		"busRoute": "314-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "DOMLURU",
+		"VIA": "MALLESHPALYA"
+	},{
+		"SL No.": 185,
+		"Platform": 18,
+		"busRoute": "314-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "INDIRANAGAR, ESI HOSPITAL",
+		"VIA": "VIGNANANAGAR"
+	},{
+		"SL No.": 186,
+		"Platform": 18,
+		"busRoute": "314-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JEEVANABHIMA NAGAR",
+		"VIA": "C.V. RAMAN NAGAR"
+	},{
+		"SL No.": 187,
+		"Platform": 18,
+		"busRoute": "138-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JEEVANABHIMA NAGAR",
+		"VIA": "K.R. CIRCLE, ULSOOR"
+	},{
+		"SL No.": 188,
+		"Platform": "18-A",
+		"busRoute": "314-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "C.V. RAMAN NAGAR",
+		"VIA": "HALASURU, NAGAVARAPALYA"
+	},{
+		"SL No.": 189,
+		"Platform": "18-A",
+		"busRoute": "314-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "288 VIGNYANA NAGAR",
+		"VIA": "MAYOHALL, MALLESHPALYA"
+	},{
+		"SL No.": 190,
+		"Platform": "18-A",
+		"busRoute": "314-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "D.R.D.O. TOWNSHIP",
+		"VIA": "HALASURU, KAGGADASAPURA"
+	},{
+		"SL No.": 191,
+		"Platform": "18-A",
+		"busRoute": "314-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BYRASANDRA",
+		"VIA": "MEYOHALLI, BEML GATE"
+	},{
+		"SL No.": 192,
+		"Platform": "18-A",
+		"busRoute": "314-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MALLESH PALYA",
+		"VIA": "CORPORATION, THIPPASANDRA CROSS"
+	},{
+		"SL No.": 193,
+		"Platform": "18-A",
+		"busRoute": "314-T",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BASAVANAGAR",
+		"VIA": "HALASURU, MALLESH PALYA"
+	},{
+		"SL No.": 194,
+		"Platform": "18-A",
+		"busRoute": "314-X",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "ABBAIAREDDY LAYOUT",
+		"VIA": "HALASURU, VIGNANANAGAR"
+	},{
+		"SL No.": 195,
+		"Platform": "18-A",
+		"busRoute": "314-Z",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JAGADISHANAGAR",
+		"VIA": "HALASURU, BEML GATE"
+	},{
+		"SL No.": 196,
+		"Platform": 19,
+		"busRoute": 126,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JEEVANAHALLI",
+		"VIA": "INDIAN EXPRESS, COLES PARK"
+	},{
+		"SL No.": 197,
+		"Platform": 19,
+		"busRoute": 129,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SHIVAJINAGAR",
+		"VIA": "VIDHANA SOUDHA, INDIAN EXPRESS"
+	},{
+		"SL No.": 198,
+		"Platform": 19,
+		"busRoute": 290,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "NAGAVARA",
+		"VIA": "VIDHAN SOUDHA, COLES PARK"
+	},{
+		"SL No.": 199,
+		"Platform": 19,
+		"busRoute": "290-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "NAGAVARA",
+		"VIA": "INDIAN EXPRESS, CANTONMENT"
+	},{
+		"SL No.": 200,
+		"Platform": 19,
+		"busRoute": "290-T",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "HBR LAYOUT 1ST STAGE",
+		"VIA": "INDIAN EXPRESS, KACHAKANAHALLI"
+	},{
+		"SL No.": 201,
+		"Platform": 19,
+		"busRoute": "290-J",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MESTRI PALYA",
+		"VIA": "INDIAN EXPRESS, NAGAVARA"
+	},{
+		"SL No.": 202,
+		"Platform": 19,
+		"busRoute": "291-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "RK HEGDE NAGAR",
+		"VIA": "VIDHANA SOUDHA, MUSLIM COLONY"
+	},{
+		"SL No.": 203,
+		"Platform": 19,
+		"busRoute": "291-M",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "GOVINDAPURA",
+		"VIA": "INDIAN EXPRESS, COLES PARK"
+	},{
+		"SL No.": 204,
+		"Platform": 19,
+		"busRoute": "302-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BABASAB PALYA",
+		"VIA": "COLES PARK, SUBBAIAHNA PALYA"
+	},{
+		"SL No.": 205,
+		"Platform": 19,
+		"busRoute": "302-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JALAVAYU VIHARA",
+		"VIA": "ITC FACTORY, KAMMANAHALLI"
+	},{
+		"SL No.": 206,
+		"Platform": 19,
+		"busRoute": "302-K",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "LINGARAJAPURA KHB COLONY",
+		"VIA": "KR CIRCLE, MARUTHISEVANAGAR"
+	},{
+		"SL No.": 207,
+		"Platform": 19,
+		"busRoute": "302-N",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KALYANANAGAR",
+		"VIA": "VASANTHANAGAR, COLES PARK"
+	},{
+		"SL No.": 208,
+		"Platform": 19,
+		"busRoute": "302-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BABASAB PALYA",
+		"VIA": "KR CIRCLE, ITC FACTORY"
+	},{
+		"SL No.": 209,
+		"Platform": "19-A",
+		"busRoute": "292-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "K NARAYANAPURA",
+		"VIA": "SHIVANANDA STORE, HEBBALA"
+	},{
+		"SL No.": 210,
+		"Platform": "19-A",
+		"busRoute": "292-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "NAGARESH NAGENAHALLI",
+		"VIA": "CONTONMENT, LINGARAJAPURA"
+	},{
+		"SL No.": 211,
+		"Platform": "19-A",
+		"busRoute": "292-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "K NARAYANAPURA",
+		"VIA": "INDIAN EXPRESS, ITC"
+	},{
+		"SL No.": 212,
+		"Platform": "19-A",
+		"busRoute": "293-N",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "GEDDALAHALLI",
+		"VIA": "INDIAN EXPRESS, COLES PARK"
+	},{
+		"SL No.": 213,
+		"Platform": "19-A",
+		"busRoute": "293-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "DASANAYAKANAHALLI",
+		"VIA": "INDIAN EXPRESS, BAGALURU"
+	},{
+		"SL No.": 214,
+		"Platform": "19-A",
+		"busRoute": "294-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BILISHIVALAYA",
+		"VIA": "INDIAN EXPRESS, KACHAKANAHALLI"
+	},{
+		"SL No.": 215,
+		"Platform": "19-A",
+		"busRoute": "295-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "DODDAGUBBI",
+		"VIA": "CONTONMENT, HENNUR CROSS"
+	},{
+		"SL No.": 216,
+		"Platform": "19-A",
+		"busRoute": "295-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "ANGALIPURA",
+		"VIA": "INDIAN EXPRESS, GEDDALAHALLI"
+	},{
+		"SL No.": 217,
+		"Platform": "19-A",
+		"busRoute": "296-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "YARABNAHALLI",
+		"VIA": "PULKESHINAGAR, CHIKKAGUBBI CROSS"
+	},{
+		"SL No.": 218,
+		"Platform": "19-B",
+		"busRoute": "296-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "HBR LAYOUT 5TH STAGE",
+		"VIA": "COLES PARK, HBR LAYOUT, K.P.T.C.L. OFFICE"
+	},{
+		"SL No.": 219,
+		"Platform": "19-B",
+		"busRoute": "296-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KALYANANAGAR",
+		"VIA": "COLES PARK, LINGARAJAPURA"
+	},{
+		"SL No.": 220,
+		"Platform": "19-B",
+		"busRoute": "296-N",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KADA AGRHARA",
+		"VIA": "VASANTHANAGAR, CLARENCE SCHOOL"
+	},{
+		"SL No.": 221,
+		"Platform": "19-B",
+		"busRoute": "296-T",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "HBR LAYOUT 1ST STAGE",
+		"VIA": "CLARENCE SCHOL, KACHARAKANAHALLI"
+	},{
+		"SL No.": 222,
+		"Platform": "19-B",
+		"busRoute": "296-V",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "HBR, BDA COMPLEX",
+		"VIA": "CONTONMENT, LINGARAJAPURA"
+	},{
+		"SL No.": 223,
+		"Platform": "19-B",
+		"busRoute": "300-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BANASWADI",
+		"VIA": "MARUTHI, SEVANAGAR"
+	},{
+		"SL No.": 224,
+		"Platform": "19-B",
+		"busRoute": "300-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "K.R. PURAM",
+		"VIA": "COLES PARK, BANASWADI"
+	},{
+		"SL No.": 225,
+		"Platform": "19-B",
+		"busRoute": "415-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "AMARAJYOTHI LAYOUT",
+		"VIA": "HEBBALA, NAGAWARA"
+	},{
+		"SL No.": 226,
+		"Platform": "19-C",
+		"busRoute": 56,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JAGAJEEVANRAM NAGAR",
+		"VIA": "KR MARKET, SIRASI CIRCLE"
+	},{
+		"SL No.": 227,
+		"Platform": "19-C",
+		"busRoute": "57-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BAPUJINAGAR",
+		"VIA": "CORPORATION, SIRASI CIRCLE"
+	},{
+		"SL No.": 228,
+		"Platform": "19-C",
+		"busRoute": 58,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "TIMBER YARD LAYOUT",
+		"VIA": "CORPORATION, NEW GUDDADAHALLI"
+	},{
+		"SL No.": 229,
+		"Platform": "19-C",
+		"busRoute": "58-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "TELECOM LAYOUT",
+		"VIA": "KR MARKET, BAPUJINAGAR"
+	},{
+		"SL No.": 230,
+		"Platform": "19-C",
+		"busRoute": "59-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "NAYANDAHALLI RAILWAY GATE",
+		"VIA": "KR MARKET, ATTIGUPPE"
+	},{
+		"SL No.": 231,
+		"Platform": "19-C",
+		"busRoute": "218-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KAMBIPURA",
+		"VIA": "M.C.T.C. BUS STATION, KENGERI"
+	},{
+		"SL No.": 232,
+		"Platform": "19-C",
+		"busRoute": "221-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "TAVAREKERE",
+		"VIA": "NAYANDAHALLI, KOMMAGHATTA"
+	},{
+		"SL No.": 233,
+		"Platform": "19-D",
+		"busRoute": "222-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "NAGADEVANAHALLI",
+		"VIA": "BAPUJINAGAR, NAYANDAHALLI, KENGERI"
+	},{
+		"SL No.": 234,
+		"Platform": "19-D",
+		"busRoute": "225-CB",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "B.H.E.L. LAYOUT",
+		"VIA": "COTTONPETE, R.R. TEMPLE, B.H.E.L. LAYOUT CROSS"
+	},{
+		"SL No.": 235,
+		"Platform": "19-D",
+		"busRoute": "225-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BANGARAPPANAGAR",
+		"VIA": "KR MARKET, BPUJINAGAR, DEVADIGA SOUDHA"
+	},{
+		"SL No.": 236,
+		"Platform": "19-D",
+		"busRoute": "225-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SHAKTI HILLS RESORTS",
+		"VIA": "COTTONPETE, NAYANDAHALLI, DEVADIGA SOUDHA"
+	},{
+		"SL No.": 237,
+		"Platform": "19-D",
+		"busRoute": 405,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KEMPEGOWDA BUS STATION",
+		"VIA": "COTTONPETE, R.V. COLLEGE, MALLATHAHALLI, KAMAKSHIPALYA"
+	},{
+		"SL No.": 238,
+		"Platform": "20-A",
+		"busRoute": "250-S",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "GELEYARA BALAGA",
+		"VIA": "YESHWANTHPUR, DASARAHALLI"
+	},{
+		"SL No.": 239,
+		"Platform": "20-A",
+		"busRoute": "250-Y",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KUDARAGERE COLONY",
+		"VIA": "YESHWANTHPUR, SEEDEDAHALLI"
+	},{
+		"SL No.": 240,
+		"Platform": "20-A",
+		"busRoute": "250-SA",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KUDARAGERE",
+		"VIA": "R.M.C. YARD, THOTADAGUDDAHALLI"
+	},{
+		"SL No.": 241,
+		"Platform": "20-A",
+		"busRoute": "250-CB",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MALLASANDRA",
+		"VIA": "R.M.C. YARD, BAGALAGUNTE CROSS"
+	},{
+		"SL No.": 242,
+		"Platform": "20-A",
+		"busRoute": "251-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "RAJANUKUNTE",
+		"VIA": "YESHWANTHPUR, HESARAGHATTA CROSS"
+	},{
+		"SL No.": 243,
+		"Platform": "20-A",
+		"busRoute": 252,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "PEENYA 2ND STAGE",
+		"VIA": "YESHWANTHPUR, JALAHALLI CROSS"
+	},{
+		"SL No.": 244,
+		"Platform": "20-A",
+		"busRoute": "252-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MACHOHALLI",
+		"VIA": "YESHWANTHPUR, SUNKADAKATTE"
+	},{
+		"SL No.": 245,
+		"Platform": "20-A",
+		"busRoute": "252-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "RAJNI FORUM",
+		"VIA": "YESHWANTHPUR, JALAHALLI CROSS"
+	},{
+		"SL No.": 246,
+		"Platform": "20-A",
+		"busRoute": "252-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "LAGGERE",
+		"VIA": "R.M.C. YARD, JALAHALLI CROSS"
+	},{
+		"SL No.": 247,
+		"Platform": "20-C",
+		"busRoute": "258-T",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KANNAMANGALA",
+		"VIA": "DASARAHALLI, NELAMANGALA"
+	},{
+		"SL No.": 248,
+		"Platform": "20-C",
+		"busRoute": "258-VA",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BYRASANDRA",
+		"VIA": "JALAHALLI CROSS, NELAMANGALA"
+	},{
+		"SL No.": 249,
+		"Platform": "20-C",
+		"busRoute": "258-VB",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "CHIKKAMARANAHALLI",
+		"VIA": "YESHWANTHPUR, NELAMANGALA"
+	},{
+		"SL No.": 250,
+		"Platform": "20-C",
+		"busRoute": "258-VD",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BETTASANDRA",
+		"VIA": "JALAHALLI CROSS, NELAMANGALA"
+	},{
+		"SL No.": 251,
+		"Platform": "20-C",
+		"busRoute": "258-WA",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JODIRAGITHIMMASANDRA",
+		"VIA": "YESHWANTHPUR, NELAMANGALA"
+	},{
+		"SL No.": 252,
+		"Platform": "20-C",
+		"busRoute": 261,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "PEENYA 2ND STAGE",
+		"VIA": "MALLESHWARAM RAILWAY STATION"
+	},{
+		"SL No.": 253,
+		"Platform": "20-C",
+		"busRoute": "263-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "K.R.S. GOWDA LAYOUT",
+		"VIA": "YESHWANTHPUR, DASARAHALLI"
+	},{
+		"SL No.": 254,
+		"Platform": "20-C",
+		"busRoute": "263-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BYADARAHALLI",
+		"VIA": "MALLESHWARAM, NELAGEDARANAHALLI"
+	},{
+		"SL No.": 255,
+		"Platform": "20-C",
+		"busRoute": "263-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "GANGONDANAHALLI",
+		"VIA": "YESHWANTHPUR, NELAGEDARANAHALLI"
+	},{
+		"SL No.": 256,
+		"Platform": 21,
+		"busRoute": 82,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KEMPEGOWDA BUS STAND",
+		"VIA": "HARISHCHANDRAGHAT, YESHWANTHPUR"
+	},{
+		"SL No.": 257,
+		"Platform": 21,
+		"busRoute": "82-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "YESHWANTHPUR RAILWAY STATION",
+		"VIA": "MALLESHWARAM, YESHWANTHPUR"
+	},{
+		"SL No.": 258,
+		"Platform": 21,
+		"busRoute": "82-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "YESHWANTHPUR RAILWAY STATION",
+		"VIA": "CENTRAL, YESHWANTHPUR"
+	},{
+		"SL No.": 259,
+		"Platform": 21,
+		"busRoute": "90-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "YESHWANTHPUR RAILWAY STATION",
+		"VIA": "CENTRAL, YESHWANTHPUR"
+	},{
+		"SL No.": 260,
+		"Platform": 21,
+		"busRoute": "98-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "RMV 2ND STAGE",
+		"VIA": "MALLESHWARAM, DEVASANDRA"
+	},{
+		"SL No.": 261,
+		"Platform": 21,
+		"busRoute": "98-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "LAKSHMIDEVI NAGAR",
+		"VIA": "YESHWANTHPUR, KANTIRAVANAGAR"
+	},{
+		"SL No.": 262,
+		"Platform": 21,
+		"busRoute": "98-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "VIDHANASOUDHA LAYOUT",
+		"VIA": "MALLESHWARAM 8TH CROSS, GORGUNTEPALYA"
+	},{
+		"SL No.": 263,
+		"Platform": 21,
+		"busRoute": "98-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "LOTTEGOLLAHALLI",
+		"VIA": "MALLESHWARAM, DEVASANDRA"
+	},{
+		"SL No.": 264,
+		"Platform": 21,
+		"busRoute": "99-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "CHOWDESHWARI BUS STAND",
+		"VIA": "MALLESHWARAM, MATTHIKERE"
+	},{
+		"SL No.": 265,
+		"Platform": 22,
+		"busRoute": "266-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MARASANDRA CIRCLE",
+		"VIA": "MATTHIKERE, MS PALYA, DIBBUR"
+	},{
+		"SL No.": 266,
+		"Platform": 22,
+		"busRoute": 269,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "RAMACHANDRAPURA",
+		"VIA": "MALLESHWARAM, BEL CIRCLE"
+	},{
+		"SL No.": 267,
+		"Platform": 22,
+		"busRoute": "269-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "VIDYARANYAPURA",
+		"VIA": "MATTHIKERE, BALIGA CIRCLE"
+	},{
+		"SL No.": 268,
+		"Platform": 22,
+		"busRoute": 271,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JALAHALLI EAST AREA CAMP",
+		"VIA": "BEL CIRCLE, JALAHALLI EAST"
+	},{
+		"SL No.": 269,
+		"Platform": 22,
+		"busRoute": "271-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "ABBIGERE",
+		"VIA": "MATTHIKERE, GANGAMMA CIRCLE"
+	},{
+		"SL No.": 270,
+		"Platform": 22,
+		"busRoute": "271-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KUVEMPUNAGAR 2ND STAGE",
+		"VIA": "MATTHIKERE"
+	},{
+		"SL No.": 271,
+		"Platform": 22,
+		"busRoute": "271-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SINGAPURA",
+		"VIA": "BEL MARKET, KUVEMPUNAGAR"
+	},{
+		"SL No.": 272,
+		"Platform": 22,
+		"busRoute": "271-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JALAHALLI VILLAGE",
+		"VIA": "MALLESHWARAM, MUTHYALANAGAR"
+	},{
+		"SL No.": 273,
+		"Platform": 22,
+		"busRoute": "271-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "VEERASAGARA",
+		"VIA": "MALLESHWARAM, MS PALYA"
+	},{
+		"SL No.": 274,
+		"Platform": "22-B",
+		"busRoute": 276,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "VIDYARANYAPURA",
+		"VIA": "MALLESHWARAM, DEVASANDRA"
+	},{
+		"SL No.": 275,
+		"Platform": "22-B",
+		"busRoute": "276-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "LOTTEGOLLAHALLI",
+		"VIA": "MALLESHWARAM, DEVASANDRA"
+	},{
+		"SL No.": 276,
+		"Platform": "22-B",
+		"busRoute": "276-J",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "YELAHANKA",
+		"VIA": "MATHIKERE, ATTUR LAYOUT"
+	},{
+		"SL No.": 277,
+		"Platform": 23,
+		"busRoute": "279-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "TATANAGAR",
+		"VIA": "MEKHRI CIRCLE, NAGASHETTIHALLI"
+	},{
+		"SL No.": 278,
+		"Platform": 23,
+		"busRoute": "279-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BHOOPASANDRA",
+		"VIA": "RAJMAHAL GUTTAHALLI, GEDDALAHALLI"
+	},{
+		"SL No.": 279,
+		"Platform": 23,
+		"busRoute": "279-K",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "PATELAPPA LAYOUT",
+		"VIA": "MEKHRI CIRCLE, ASHWATHNAGAR"
+	},{
+		"SL No.": 280,
+		"Platform": 23,
+		"busRoute": "281-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KANNAMANGALA GATE",
+		"VIA": "MEKHRI CIRCLE, HUNASAMARANAHALLI"
+	},{
+		"SL No.": 281,
+		"Platform": 23,
+		"busRoute": "282-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MARANAYAKANAHALLI",
+		"VIA": "HEBBAL, BETTAHALASURU CROSS"
+	},{
+		"SL No.": 282,
+		"Platform": 23,
+		"busRoute": "282-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KODAGALAHATTI",
+		"VIA": "MEKHRI CIRCLE, YELAHANKA"
+	},{
+		"SL No.": 283,
+		"Platform": 23,
+		"busRoute": 284,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "YELAHANKA",
+		"VIA": "MEKHRI CIRCLE, BYATARAYANAPURA"
+	},{
+		"SL No.": 284,
+		"Platform": 23,
+		"busRoute": "284-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "NYAYANGA BADAVANE",
+		"VIA": "RAJMAHAL GUTTAHALLI, ALLALASANDRA"
+	},{
+		"SL No.": 285,
+		"Platform": 23,
+		"busRoute": "415-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "AMARJYOTHI LAYOUT",
+		"VIA": "HEBBALA, NAGAVARA"
+	},{
+		"SL No.": 286,
+		"Platform": "23-A",
+		"busRoute": "284-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "YELAHANKA NEW TOWN",
+		"VIA": "RAJMAHAL GUTTAHALLI, BYATARAYANAPURA"
+	},{
+		"SL No.": 287,
+		"Platform": "23-A",
+		"busRoute": "285-M",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "DODDABALLAPURA",
+		"VIA": "BYATARAYANAPURA, RAJANUKUNTE"
+	},{
+		"SL No.": 288,
+		"Platform": "23-A",
+		"busRoute": "286-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "K NARAYANAPURA",
+		"VIA": "HEBBALA, BYATARAYANAPURA"
+	},{
+		"SL No.": 289,
+		"Platform": "23-A",
+		"busRoute": "286-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JAKKUR",
+		"VIA": "MEKHRI CIRCLE, BYATARAYANAPURA"
+	},{
+		"SL No.": 290,
+		"Platform": "23-A",
+		"busRoute": "287-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "COFFEE BOARD LAYOUT",
+		"VIA": "MEKHRI CIRCLE, MILITARY DAIRY FORUM"
+	},{
+		"SL No.": 291,
+		"Platform": "23-A",
+		"busRoute": "287-J",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "CHAMUNDESHWARINAGAR",
+		"VIA": "RAJMAHAL GUTTAHALLI, HEBBAL"
+	},{
+		"SL No.": 292,
+		"Platform": "23-A",
+		"busRoute": "288-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KODIGEHALLI",
+		"VIA": "MEKHRI CIRCLE, HEBBAL"
+	},{
+		"SL No.": 293,
+		"Platform": "23-A",
+		"busRoute": "288-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KODIGEHALLI CANARA BANK COLONY",
+		"VIA": "MEKHRI CIRCLE, HEBBAL"
+	},{
+		"SL No.": 294,
+		"Platform": "23-B",
+		"busRoute": "288-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "THINDLU",
+		"VIA": "MEKHRI CIRCLE, SANJEEVINI NAGAR"
+	},{
+		"SL No.": 295,
+		"Platform": "23-B",
+		"busRoute": "289-M",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BEGUR",
+		"VIA": "MEKHRI CIRCLE, YELAHANKA"
+	},{
+		"SL No.": 296,
+		"Platform": "23-B",
+		"busRoute": "297-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "NERAGANAHALLI",
+		"VIA": "HEBBALA, SADAHALLI"
+	},{
+		"SL No.": 297,
+		"Platform": "23-B",
+		"busRoute": "298-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "ERATAGANAHALLI",
+		"VIA": "HEBBAL, CHIKKAJALA"
+	},{
+		"SL No.": 298,
+		"Platform": "23-B",
+		"busRoute": "298-M",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "DEVANAHALLI",
+		"VIA": "YELAHANKA, CHIKKAJALA"
+	},{
+		"SL No.": 299,
+		"Platform": "23-B",
+		"busRoute": "298-MA",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BOMMAVARA",
+		"VIA": "HEBBAL, KANNAMANGALA GATE"
+	},{
+		"SL No.": 300,
+		"Platform": "23-B",
+		"busRoute": "402-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "YELAHANKA NEW TOWN 5TH STAGE",
+		"VIA": "HEBBAL, YELAHANKA NEW TOWN"
+	},{
+		"SL No.": 301,
+		"Platform": "23-C",
+		"busRoute": "297-J",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "NERAGANAHALLI",
+		"VIA": "HEBBALA, SADAHALLI"
+	},{
+		"SL No.": 302,
+		"Platform": "23-C",
+		"busRoute": "298-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "ERATAGANAHALLI",
+		"VIA": "HEBBALA, CHIKKAJALA"
+	},{
+		"SL No.": 303,
+		"Platform": "23-C",
+		"busRoute": "298-M",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "DEVANAHALLI",
+		"VIA": "YELAHANKA, CHIKKAJALA"
+	},{
+		"SL No.": 304,
+		"Platform": "23-C",
+		"busRoute": "298-MA",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BOMMAVARA",
+		"VIA": "HEBBAL, KANNAMANGALA GATE"
+	},{
+		"SL No.": 305,
+		"Platform": "23-C",
+		"busRoute": "402-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "YELAHANKA NEW TOWN 5TH STAGE",
+		"VIA": "HEBBAL, YELAHANKA NEW TOWN"
+	},{
+		"SL No.": 306,
+		"Platform": 24,
+		"busRoute": "108-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "GANGANAGAR",
+		"VIA": "VASANTHANAGAR, MUNIREDDYPALYA"
+	},{
+		"SL No.": 307,
+		"Platform": 24,
+		"busRoute": "111-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KAVALBYRASANDRA",
+		"VIA": "VASANTHANAGAR, MUNIREDDYPALYA"
+	},{
+		"SL No.": 308,
+		"Platform": 24,
+		"busRoute": "114-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SULTHANAPALYA",
+		"VIA": "VASANTHANAGAR, MUNIREDDYPALYA"
+	},{
+		"SL No.": 309,
+		"Platform": 24,
+		"busRoute": "415-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SHYAMPUR",
+		"VIA": "VASANTHANAGAR, HMT LAYOUT"
+	},{
+		"SL No.": 310,
+		"Platform": 24,
+		"busRoute": "415-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "VISHWANATHA NAGENAHALLI",
+		"VIA": "VASANTHANAGAR, HMT LAYOUT"
+	},{
+		"SL No.": 311,
+		"Platform": 25,
+		"busRoute": 104,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SADASHIVANAGAR",
+		"VIA": "CENTRAL, MALLESHWARAM"
+	},{
+		"SL No.": 312,
+		"Platform": "25-A",
+		"busRoute": 145,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "NEELASANDRA",
+		"VIA": "CORPORATION, NANJAPPA CIRCLE, AUSTIN TOWN"
+	},{
+		"SL No.": 313,
+		"Platform": "25-A",
+		"busRoute": "145-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "NEELASANDRA ROSE GARDEN",
+		"VIA": "CORPORATION, NANJAPPA CIRCLE, AUSTIN TOWN, NEELASANDRA"
+	},{
+		"SL No.": 314,
+		"Platform": "25-A",
+		"busRoute": 146,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "VIVEK NAGAR",
+		"VIA": "CORPORATION, NANJAPPA CIRCLE, AUSTIN TOWN"
+	},{
+		"SL No.": 315,
+		"Platform": "25-A",
+		"busRoute": "146-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SRINIVAGILU",
+		"VIA": "CORPORATION, NANJAPPA CIRCLE, AUSTIN TOWN, EJIPURA"
+	},{
+		"SL No.": 316,
+		"Platform": "25-A",
+		"busRoute": "146-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "EJIPURA",
+		"VIA": "CORPORATION, NANJAPPA CIRCLE, AUSTIN TOWN, VIVEK NAGAR"
+	},{
+		"SL No.": 317,
+		"Platform": "25-B",
+		"busRoute": "340-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "H.S.R. LAYOUT (CAMBRIDGE SCHOOL)",
+		"VIA": "MAHARANI COLLEGE, DIARY CIRCLE, AGARA, PARANGIPALYA"
+	},{
+		"SL No.": 318,
+		"Platform": "25-B",
+		"busRoute": "340-M",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "H.S.R. 2ND SECTOR (CAMBRIDGE SCHOOL)",
+		"VIA": "MAHARANI COLLEGE, WILSON GARDEN, JAKKASANDRA, PARANGIPALYA"
+	},{
+		"SL No.": 319,
+		"Platform": "25-B",
+		"busRoute": "340-L",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "HOSUR MAIN ROAD",
+		"VIA": "CORPORATION, BELLANDUR MAIN ROAD, CENTRAL JAIL"
+	},{
+		"SL No.": 320,
+		"Platform": "25-B",
+		"busRoute": "340-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KORAMANGALA",
+		"VIA": "CORPORATION, DIARY CIRCLE"
+	},{
+		"SL No.": 321,
+		"Platform": "25-B",
+		"busRoute": "340-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BDA COMPLEX",
+		"VIA": "ADUGODI, JAKKASANDRA, H.S.R. LAYOUT 2ND SECTOR"
+	},{
+		"SL No.": 322,
+		"Platform": "25-B",
+		"busRoute": "340-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "PARANGIPALYA",
+		"VIA": "WILSON GARDEN, ADUGODI"
+	},{
+		"SL No.": 323,
+		"Platform": "25-B",
+		"busRoute": "341-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BELANDURU",
+		"VIA": "CORPORATION, DIARY CIRCLE, AGADA"
+	},{
+		"SL No.": 324,
+		"Platform": "25-B",
+		"busRoute": "341-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "HARALUR",
+		"VIA": "CORPORATION, JAKKASANDRA, HARALUR CROSS"
+	},{
+		"SL No.": 325,
+		"Platform": "25-B",
+		"busRoute": "342-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SARJAPUR",
+		"VIA": "CORPORATION, JAKKASANDRA, DODDAKANNELLI, AMERE"
+	},{
+		"SL No.": 326,
+		"Platform": 26,
+		"busRoute": "KBS-3A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "ATTIBELE",
+		"VIA": "MADIWALA, BOMMANAHALLI, SINGASANDRA, HEBBAGODI, CHANDAPURA"
+	},{
+		"SL No.": 327,
+		"Platform": 26,
+		"busRoute": "KBS-3C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "CHANDAPURA",
+		"VIA": "MADIWALA, BOMMANAHALLI, SINGASANDRA, HEBBAGODI, NARAYANA HRUDAYALAYA"
+	},{
+		"SL No.": 328,
+		"Platform": 26,
+		"busRoute": "KBS-3E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "ELECTRONIC CITY WIPRO GATE",
+		"VIA": "MADIWALA, BOMMANAHALLI, KONAPPANA AGRAHARA"
+	},{
+		"SL No.": 329,
+		"Platform": 26,
+		"busRoute": "342-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SARJAPURA",
+		"VIA": "CORPORATION, SHANTHI NAGAR, KORAMANGALA 1ST BLOCK, BELLANDUR GATE"
+	},{
+		"SL No.": 330,
+		"Platform": 26,
+		"busRoute": "343-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "HULLAHALLI",
+		"VIA": "MADIWALA, BOMMANAHALLI, HONGSANDRA, BETTADASANAPURA CROSS"
+	},{
+		"SL No.": 331,
+		"Platform": 26,
+		"busRoute": "343-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KODICHIKKANAHALLI",
+		"VIA": "LALBAGH"
+	},{
+		"SL No.": 332,
+		"Platform": 26,
+		"busRoute": "343-L",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "HONGASANDRA MICO LAYOUT",
+		"VIA": "MADIWALA, BOMMANAHALLI, HONGASANDRA"
+	},{
+		"SL No.": 333,
+		"Platform": 26,
+		"busRoute": "343-K",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "VISHWAPRIYA LAYOUT",
+		"VIA": "MADIWALA, BOMMANAHALLI, HONGASANDRA"
+	},{
+		"SL No.": 334,
+		"Platform": 26,
+		"busRoute": "344-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BETTADASANAPURA",
+		"VIA": "MADIWALA, BOMMANAHALLI, BEGURU"
+	},{
+		"SL No.": 335,
+		"Platform": "26-A",
+		"busRoute": "346-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "RAYASANDRA",
+		"VIA": "BANGLORE DAIRY, MADIWALA, KUDLE GATE, HOSA ROAD"
+	},{
+		"SL No.": 336,
+		"Platform": "26-A",
+		"busRoute": "346-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "PARAPPANA AGRAHARA",
+		"VIA": "BANGLORE DAIRY, MADIWALA, KUDLE GATE, HOSA ROAD"
+	},{
+		"SL No.": 337,
+		"Platform": "26-A",
+		"busRoute": "346-CK",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KARNATAKA SLUM BOARD",
+		"VIA": "MADIWALA, HOSA ROAD, CENTRAL JAIL"
+	},{
+		"SL No.": 338,
+		"Platform": "26-A",
+		"busRoute": "347-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BASAPURA",
+		"VIA": "MADIWALA, SINGASANDRA, HOSA ROAD"
+	},{
+		"SL No.": 339,
+		"Platform": "26-A",
+		"busRoute": "346-N",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "DODDATHOGURU MUNESHWARA TEMPLE",
+		"VIA": "MADIWALA, SINGASANDRA, KONAPPANA AGRAHARA"
+	},{
+		"SL No.": 340,
+		"Platform": "26-A",
+		"busRoute": "346-V",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "DODDANAGAMANGALA",
+		"VIA": "MADIWALA, BOMMANAHALLI, SINGASANDRA"
+	},{
+		"SL No.": 341,
+		"Platform": "26-A",
+		"busRoute": "347-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KUDLU",
+		"VIA": "MADIWALA, BOMMANAHALLI"
+	},{
+		"SL No.": 342,
+		"Platform": "26-A",
+		"busRoute": "347-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "CHIKKA BEGUR",
+		"VIA": "MADIWALA, BOMMANAHALLI, HOSA ROAD"
+	},{
+		"SL No.": 343,
+		"Platform": "26-A",
+		"busRoute": "347-HD",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "DEVENDRA NAGAR (CHIKKATHOGURU)",
+		"VIA": "MADIWALA, BOMMANAHALLI, HOSA ROAD, CHIKKATHOGURU"
+	},{
+		"SL No.": 344,
+		"Platform": "26-A",
+		"busRoute": "347-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SOMASUNDARAPALYA",
+		"VIA": "MADIWALA, BOMMANAHALLI, KUDLUGATE"
+	},{
+		"SL No.": 345,
+		"Platform": "26-A",
+		"busRoute": "347-L",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "HOSAPALYA",
+		"VIA": "MADIWALA, BOMMANAHALLI, KUDLUGATE, SOMASUNDARAPALYA"
+	},{
+		"SL No.": 346,
+		"Platform": "26-A",
+		"busRoute": 348,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MANGAMMANA PALYA",
+		"VIA": "MADIWALA, SI APARTMENT"
+	},{
+		"SL No.": 347,
+		"Platform": "26-B",
+		"busRoute": "351-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "NARAYANAGHATTA",
+		"VIA": "MADIWALA, HEBBAGODI, CHANDAPURA, RAMASANDRA"
+	},{
+		"SL No.": 348,
+		"Platform": "26-B",
+		"busRoute": "351-J",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "HANDENAHALLI",
+		"VIA": "MADIWALA, HEBBAGODI, CHANDAPURA, RAMASANDRA, MUTTA NELLORU"
+	},{
+		"SL No.": 349,
+		"Platform": "26-B",
+		"busRoute": "352-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "HENNAGARA",
+		"VIA": "MADIWALA, HEBBAGODI, KITHAGANUR"
+	},{
+		"SL No.": 350,
+		"Platform": "26-B",
+		"busRoute": "352-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MASTENAHALLI",
+		"VIA": "MADIWALA, HEBBAGODI, HENNAGARA"
+	},{
+		"SL No.": 351,
+		"Platform": "26-B",
+		"busRoute": "353-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JIGANI",
+		"VIA": "MADIWALA, HEBBAGODI, HINMAKKI, SHITANAYAKANAHALLI, MADAPATTANA"
+	},{
+		"SL No.": 352,
+		"Platform": "26-B",
+		"busRoute": "354-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SHETTIHALLI",
+		"VIA": "LALBAGH, MADIWALA, HEBBAGODI, CHANDAPURA, HIGGALURU"
+	},{
+		"SL No.": 353,
+		"Platform": "26-B",
+		"busRoute": "354-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MARASUR",
+		"VIA": "MADIWALA, HEBBAGODI, CHANDAPURA, HIGGALURU"
+	},{
+		"SL No.": 354,
+		"Platform": "26-B",
+		"busRoute": "355-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SRIRAMPURA",
+		"VIA": "MADIWALA, HEBBAGODI, ARMADALLI"
+	},{
+		"SL No.": 355,
+		"Platform": "26-B",
+		"busRoute": "355-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BANDENALLASANDRA",
+		"VIA": "MADIWALA, HEBBAGODI, BIOCON FACTORY, KYALASANAHALLI"
+	},{
+		"SL No.": 356,
+		"Platform": "26-C",
+		"busRoute": "356-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "THATTNAHALLI",
+		"VIA": "MADIWALA, HEBBAGODI, CHANDAPURA, HIGGALURU"
+	},{
+		"SL No.": 357,
+		"Platform": "26-C",
+		"busRoute": "356-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SAMPIGENAGAR",
+		"VIA": "MADIWALA, KUDLUGATE, HUSKUR GATE"
+	},{
+		"SL No.": 358,
+		"Platform": "26-C",
+		"busRoute": "356-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SURYANAGAR (CHANDAPUR)",
+		"VIA": "MADIWALA, HEBBAGODI, CHANDAPURA"
+	},{
+		"SL No.": 359,
+		"Platform": "26-C",
+		"busRoute": "356-M",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "ANEKAL",
+		"VIA": "MADIWALA, HEBBAGODI, CHANDAPURA, JGGALURU, TARAPUR GATE"
+	},{
+		"SL No.": 360,
+		"Platform": "26-C",
+		"busRoute": "356-CB",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "ELECTRONIC CITY 2ND STAGE",
+		"VIA": "MADIWALA, KONAPPANA AGRAHARA"
+	},{
+		"SL No.": 361,
+		"Platform": "26-C",
+		"busRoute": "358-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SAMANDURU",
+		"VIA": "MADIWALA, HEBBAGODI, CHANDAPURA, GUTTADAHATTI CROSS, KAMBLIPURA TEMPLE"
+	},{
+		"SL No.": 362,
+		"Platform": "26-C",
+		"busRoute": "360-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "ATTIBELE",
+		"VIA": "MADIWALA, HEBBAGODI, CHANDAPURA"
+	},{
+		"SL No.": 363,
+		"Platform": "26-C",
+		"busRoute": "360-J",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "ATTIBELE",
+		"VIA": "LALBAGH, MADIWALA, HEBBAGODI, CHANDAPURA"
+	},{
+		"SL No.": 364,
+		"Platform": 27,
+		"busRoute": 365,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BANNERGHATTA NATIONAL PARK",
+		"VIA": "BANGALORE DAIRY, GOTTIGERE, KALKERE"
+	},{
+		"SL No.": 365,
+		"Platform": 27,
+		"busRoute": "365-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KOPPA",
+		"VIA": "BANGALORE DAIRY, BILEKANAHALLI, BASAVANAPURA, KOPPA GATE"
+	},{
+		"SL No.": 366,
+		"Platform": 27,
+		"busRoute": "365-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BILVARADAHALLI",
+		"VIA": "BANGALORE DAIRY, GOTTIGERE, BASAVANAPURA"
+	},{
+		"SL No.": 367,
+		"Platform": 27,
+		"busRoute": "365-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SHANUBHOGANAHALLI",
+		"VIA": "BANGALORE DAIRY, GOTTIGERE, BILAVARADAHALLI"
+	},{
+		"SL No.": 368,
+		"Platform": 27,
+		"busRoute": "365-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "NOSENURU",
+		"VIA": "BANGALORE DIARY, GOTTIGERE, KOPPA GATE, JIGANI, HARAGADDE"
+	},{
+		"SL No.": 369,
+		"Platform": 27,
+		"busRoute": "365-J",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "JIGANI",
+		"VIA": "BANGALORE DIARY, GOTTIGERE, BANNERGHATTA CIRCLE, KOPPA GATE"
+	},{
+		"SL No.": 370,
+		"Platform": 27,
+		"busRoute": "365-N",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "GEDDENAHALLI",
+		"VIA": "BANGALORE DIARY, GOTTIGERE, JIGANI, GOWDANAHALLI"
+	},{
+		"SL No.": 371,
+		"Platform": 27,
+		"busRoute": "365-P",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "ANEKAL",
+		"VIA": "BANGALORE DIARY, GOTTIGERE, BANNERGHATTA CIRCLE, HARAGADDE"
+	},{
+		"SL No.": 372,
+		"Platform": "27-A",
+		"busRoute": "369-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "HULIMAVU",
+		"VIA": "BANGALORE DIARY, BILEKANAHALLI, HULIMAVU GATE"
+	},{
+		"SL No.": 373,
+		"Platform": "27-A",
+		"busRoute": "369-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SHANTINIKETAN LAYOUT",
+		"VIA": "BANGALORE DIARY, BILEKANAHALLI, AREKERE GATE"
+	},{
+		"SL No.": 374,
+		"Platform": "27-A",
+		"busRoute": "369-J",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "C.K. PALYA",
+		"VIA": "BANGALORE DIARY, HULIMAVU GATE, CHIKKAMMANAHALLI"
+	},{
+		"SL No.": 375,
+		"Platform": "27-A",
+		"busRoute": "365-Q",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "DYAVASANDRA",
+		"VIA": "BANGALORE DIARY, HULIMAVU GATE, JIGANI HARAGADDE"
+	},{
+		"SL No.": 376,
+		"Platform": "27-A",
+		"busRoute": "365-R",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BASAVANAPURA",
+		"VIA": "BANGALORE DIARY, HULIMAVU GATE, GOTTIGERE"
+	},{
+		"SL No.": 377,
+		"Platform": "27-A",
+		"busRoute": "365-W",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "VADERA MANCHENAHALLI",
+		"VIA": "BANGALORE DIARY, HULIMAVU GATE, KALKERE, JIGANI"
+	},{
+		"SL No.": 378,
+		"Platform": "27-A",
+		"busRoute": "367-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "PILLAGANAHALLI",
+		"VIA": "BANGALORE DIARY, HULIMAVU GATE, BASAVANAPURA GATE"
+	},{
+		"SL No.": 379,
+		"Platform": "27-A",
+		"busRoute": "369-CA",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "CHIKKAMMANAHALLI",
+		"VIA": "BANGALORE DIARY, BILEKANAHALLI, HULIMAVU"
+	},{
+		"SL No.": 380,
+		"Platform": "27-A",
+		"busRoute": "369-H",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MICO SHRAMAJEEVI COLONY",
+		"VIA": "BANGALORE DIARY, BILEKANAHALLI, AREKERE GATE"
+	},{
+		"SL No.": 381,
+		"Platform": "27-A",
+		"busRoute": "369-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "HOMMADEVANAHALLI",
+		"VIA": "BANGALORE DIARY, BILEKANAHALLI, CHIKKAMMANAHALLI"
+	},{
+		"SL No.": 382,
+		"Platform": "27-A",
+		"busRoute": "372-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "NISARGA BADAVANE",
+		"VIA": "BANGALORE DIARY, BILEKANAHALLI, KALKERE, KOPPA GATE"
+	},{
+		"SL No.": 383,
+		"Platform": 28,
+		"busRoute": "304-R",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "B.N. BACHE GOWDA BADAVANE",
+		"VIA": "CORPORATION,HALASURU, K.R. PURAM RAILWAY STATION, CHANNASANDRA, MEDIMALLASANDRA, NARAYANAKERE"
+	},{
+		"SL No.": 384,
+		"Platform": 28,
+		"busRoute": "304-L",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MEDIMALLASANDRA",
+		"VIA": "CORPORATION, HALASURU, K.R. PURAM RAILWAY STATION, GARUDACHAR PALYA, HOODI, BODANA HOSAHALLI, DUNNASANDRA"
+	},{
+		"SL No.": 385,
+		"Platform": 28,
+		"busRoute": "304-X",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "AREHALLI",
+		"VIA": "HALASURU, K.R. PURAM RAILWAY STATION, CHANNASANDRA, DUNNASANDRA"
+	},{
+		"SL No.": 386,
+		"Platform": 28,
+		"busRoute": "304-J",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KALKUNTE AGRAHARA",
+		"VIA": "CORPORATION, HALASURU, GARUDACHAR PALYA, HOPE FARM, DUNNASANDRA"
+	},{
+		"SL No.": 387,
+		"Platform": 28,
+		"busRoute": "304-Z",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "CHIKKA THIRUPATHI",
+		"VIA": "GARUDACHAR PALYA, BODANA HOSAHALLI, KALKUNTE AGRAHARA"
+	},{
+		"SL No.": 388,
+		"Platform": 28,
+		"busRoute": "305-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "CHANNASANDRA",
+		"VIA": "HALASURI, GARUDACHAR PALYA, HOPE FARM"
+	},{
+		"SL No.": 389,
+		"Platform": 28,
+		"busRoute": "305-S",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SOURYA HOSPITAL",
+		"VIA": "HALASURU, GARUDACHAR PALYA, CHANNASANDRA, NADUVATTI"
+	},{
+		"SL No.": 390,
+		"Platform": "28-A",
+		"busRoute": "315-J",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "RAMPURA",
+		"VIA": "HALASURU, K.R. PURAM, AVALAHALLI, BIDARAHALLI, ADURU"
+	},{
+		"SL No.": 391,
+		"Platform": "28-A",
+		"busRoute": "315-K",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "K.R. PURAM",
+		"VIA": "HALASURU, BENNIGANAHALLI, CHANNASANDRA BRIDGE, RAMURTHY NAGAR"
+	},{
+		"SL No.": 392,
+		"Platform": "28-A",
+		"busRoute": "315-L",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "RAMAMURTHY NAGAR",
+		"VIA": "HALASURU, BENNIGANAHALLI BRIDGE, RING ROAD"
+	},{
+		"SL No.": 393,
+		"Platform": "28-A",
+		"busRoute": "315-P",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SHANTI LAYOUT",
+		"VIA": "HALASURU, BENNIGANAHALLI, RAMURTHY NAGAR, KOWDENAHALLI"
+	},{
+		"SL No.": 394,
+		"Platform": "28-A",
+		"busRoute": "315-T",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KITHAGANUR",
+		"VIA": "HALASURU, BENNIGANAHALLI, KOWDENAHALLI, T.C. PALYA"
+	},{
+		"SL No.": 395,
+		"Platform": "28-A",
+		"busRoute": "315-V",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KADUGODI BALAJI CIRCLE",
+		"VIA": "HALASURU, K.R. PURAM, SADARAMANGALA, HOODI"
+	},{
+		"SL No.": 396,
+		"Platform": "28-B",
+		"busRoute": "316-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BUDIGERE",
+		"VIA": "HALASURU, K.R. PURA, AVALAHALLI, BUDIGERE CROSS"
+	},{
+		"SL No.": 397,
+		"Platform": "28-B",
+		"busRoute": "316-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "CHEEMASANDRA",
+		"VIA": "HALASURU, K.R. PURA, AVALAHALLI, CHEEMASANDRA CROSS"
+	},{
+		"SL No.": 398,
+		"Platform": "28-B",
+		"busRoute": "316-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MANDURU",
+		"VIA": "HALASURU, K.R. PURA, AVALAHALLI, BUDIGERE CROSS"
+	},{
+		"SL No.": 399,
+		"Platform": "28-B",
+		"busRoute": "316-M",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SINGRAHALLI",
+		"VIA": "HALASURU, K.R. PURA, BUDIGERE CROSS, BUDIGERE"
+	},{
+		"SL No.": 400,
+		"Platform": "28-B",
+		"busRoute": "317-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "HOSAKOTE",
+		"VIA": "HALASURU, K.R. PURA, BUDIGERE CROSS"
+	},{
+		"SL No.": 401,
+		"Platform": "28-B",
+		"busRoute": "317-P",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KANNAMANGALA",
+		"VIA": "HALASURU, K.R. PURA, BUDIGERE CROSS, KAJI SONNENAHALLI"
+	},{
+		"SL No.": 402,
+		"Platform": "28-B",
+		"busRoute": "317-V",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "POOJENA AGRAHARA (NADUVATTI)",
+		"VIA": "HALASURU, K.R.PURA, BUDIGERE CROSS, HOSAKOTE, KODIHALLI, BASAVANAHALLI"
+	},{
+		"SL No.": 403,
+		"Platform": "28-B",
+		"busRoute": 381,
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "THIMMASANDRA",
+		"VIA": "HALASURU, K.R.PURA, BATTARAHALLI, BUDIGERE CROSS, HOSAKOTE"
+	},{
+		"SL No.": 404,
+		"Platform": "28-B",
+		"busRoute": "381-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KAMBIPURA",
+		"VIA": "HALASURU, K.R.PURA, BATTARAHALLI, BUDIGERE CROSS, HOSAKOTE"
+	},{
+		"SL No.": 405,
+		"Platform": "28-B",
+		"busRoute": "381-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "POOJENA AGRAHARA",
+		"VIA": "HALASURU, K.R.PURA, BATTARAHALLI, BUDIGERE CROSS, HOSAKOTE"
+	},{
+		"SL No.": 406,
+		"Platform": "28-B",
+		"busRoute": "HK-12",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "HOSAKOTE",
+		"VIA": "HALASURU, K.R.PURA, BATTARAHALLI, BUDIGERE CROSS, HOSAKOTE"
+	},{
+		"SL No.": 407,
+		"Platform": 29,
+		"busRoute": "319-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "BATTANDURU AGRAHARA",
+		"VIA": "HALASURU, GARUDACHAR PALYA, HOODI, AGRAHARA"
+	},{
+		"SL No.": 408,
+		"Platform": 29,
+		"busRoute": "319-J",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "AMBEDKAR NAGAR",
+		"VIA": "HALASURU, GARUDACHAR PALYA, HOODI, BA AGRAHARA"
+	},{
+		"SL No.": 409,
+		"Platform": 29,
+		"busRoute": "320-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "NAGONDANAHALLI",
+		"VIA": "HALASURU, GARUDACHAR PALYA, HOODI, IMMADIHALLI"
+	},{
+		"SL No.": 410,
+		"Platform": 29,
+		"busRoute": "321-J",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MUTTUKURU",
+		"VIA": "HALASURU, GARUDACHAR PALYA, HOODI, NAGANAYAKANAKOTE"
+	},{
+		"SL No.": 411,
+		"Platform": 29,
+		"busRoute": "322-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "THATHANUR",
+		"VIA": "HALASURU, CHANNASANDRA, MATKAGURU, MUTHUGADAHALLI"
+	},{
+		"SL No.": 412,
+		"Platform": "29-A",
+		"busRoute": "323-AK",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "GONIGHATTAPURA",
+		"VIA": "MARATHAHALLI, VARTHUR, RAMAGONDANAHALLI"
+	},{
+		"SL No.": 413,
+		"Platform": "29-A",
+		"busRoute": "232-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "NERIGE",
+		"VIA": "MARATHAHALLI, VARTHUR, GUNJURU"
+	},{
+		"SL No.": 414,
+		"Platform": "29-A",
+		"busRoute": "325-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "HAROHALLI",
+		"VIA": "MARATHAHALLI, SIDDAPURA, VARTHUR"
+	},{
+		"SL No.": 415,
+		"Platform": "29-A",
+		"busRoute": "327-A",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "DOMMASANDRA",
+		"VIA": "MARATHAHALLI, VARTHUR, GUNJURU"
+	},{
+		"SL No.": 416,
+		"Platform": "29-A",
+		"busRoute": "327-G",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KUGUR",
+		"VIA": "MARATHAHALLI, SIDDAPURA, VARTHUR, NERIGE"
+	},{
+		"SL No.": 417,
+		"Platform": "29-A",
+		"busRoute": "327-K",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "SARJAPURA",
+		"VIA": "MARATHAHALLI, KADUBISANAHALLI, KANNALI, KODATIGET, HEMARE"
+	},{
+		"SL No.": 418,
+		"Platform": "29-A",
+		"busRoute": "328-E",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "VARTHUR",
+		"VIA": "MARATHAHALLI, SIDDAPURA, KODI"
+	},{
+		"SL No.": 419,
+		"Platform": "29-A",
+		"busRoute": "328-M",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "MADHURA NAGAR",
+		"VIA": "MARATHAHALLI, SIDDAPURA, VARTHUR"
+	},{
+		"SL No.": 420,
+		"Platform": "29-B",
+		"busRoute": "334-C",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "NAGASANDRA",
+		"VIA": "DOMLURU, N.A.L., GOLF CLUB"
+	},{
+		"SL No.": 421,
+		"Platform": "29-B",
+		"busRoute": "334-D",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "VARTHUR",
+		"VIA": "DOMLURU, HAL, MARATHAHALLI, KODI"
+	},{
+		"SL No.": 422,
+		"Platform": "29-B",
+		"busRoute": "335-AA",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "WHITEFIELD TTMC",
+		"VIA": "MARATHAHALLI, KUNDALAHALLI, GRAPHIT INDIA"
+	},{
+		"SL No.": 423,
+		"Platform": "29-B",
+		"busRoute": "335-N",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KADUGODI",
+		"VIA": "DOMLURU, HAL, MARATHAHALLI, ITPL, HOPE FARM"
+	},{
+		"SL No.": 424,
+		"Platform": "29-B",
+		"busRoute": "335-F",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "LAL BAHADUR SHASTRI NAGAR",
+		"VIA": "DOMLURU, HAL"
+	},{
+		"SL No.": 425,
+		"Platform": "29-B",
+		"busRoute": "336-B",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KEMPAPURA",
+		"VIA": "DOMLURU, HAL, YAMALURU"
+	},{
+		"SL No.": 426,
+		"Platform": "29-B",
+		"busRoute": "KBS-1I",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KADUGODI",
+		"VIA": "DOMLURU, HAL, MARATHAHALLI, ITPL, VAIDEHI"
+	},{
+		"SL No.": 427,
+		"Platform": "29-B",
+		"busRoute": "KBS-1K",
+		"startingFrom": "Kempegowda Bus Stand",
+		"Destination": "KADUGODI",
+		"VIA": "DOMLUR, MARATHAHALLI, SIDDAPURA, KODI, WHITEFIELD"
+	}
+]

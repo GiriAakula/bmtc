@@ -1,0 +1,13 @@
+<form (ngSubmit)="onSubmit()">
+    <input type="search" name="search" [(ngModel)]="search"><br><br>
+    <input type="submit">
+    <div *ngIf="selected">
+        <div *ngIf="result !== undefined" class="result">
+            <p>Platform : {{result?.Platform}}</p>
+            <p>From : {{result?.startingFrom}}</p>
+            <p>To : {{result?.Destination}}</p>
+            <p>Via : {{result?.VIA}}</p>
+        </div>
+        <p *ngIf="result == undefined">There is no bus for the route you entered. Please check your bus route again.</p>
+    </div>
+</form>
