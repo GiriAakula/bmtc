@@ -19,17 +19,13 @@ export class MainComponent implements OnInit {
   
   ngOnInit(): void {
     this.httpClient.get("../../../assets/data.json").subscribe(data =>{
-      console.log(data);
       this.products = data;
     }) 
-    console.log(this.result);
   }
 
   onSubmit(){
     this.selected = true;
-    const title = this.search;
-    console.log(title);
-    this.result = _.find(this.products, ["busRoute", title.toUpperCase()])
-    console.log(this.result);
+    const title = this.search;    
+    this.result = _.find(this.products, {"busRoute": isNaN(title) ? title.toLocaleUpperCase() : Number(title)})  
   }
 }
