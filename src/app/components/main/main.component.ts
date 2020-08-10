@@ -25,7 +25,7 @@ export class MainComponent implements OnInit {
 
   onSubmit(){
     this.selected = true;
-    const title = this.search;    
+    const title:any = this.search;    
     this.result = _.find(this.products, {"busRoute": isNaN(title) ? title.toLocaleUpperCase() : Number(title)})  
   }
 }
